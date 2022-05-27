@@ -24,57 +24,57 @@ After performing the initial analysis, 9th grade reading and math scores from Th
 
     Before District Analysis:
 
-    ![before district summary](https://github.com/emariecovey/School_District_Analysis/blob/main/before_district_summary.png)
+    ![before district summary](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/before_district_summary.png)
 
     After District Analysis:
 
-    ![after district summary](https://github.com/emariecovey/School_District_Analysis/blob/main/after_district_summary.png)
+    ![after district summary](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/after_district_summary.png)
 
 2. How was the school summary affected?
     The only difference in this table were the scores in the row for Thomas High School. In this row, all scores but one (average reading score) decreased slightly. For example, the percent of students passing both reading and math went from 90.94 to 90.63. Average reading score did increase slightly, from 83.85 to 83.90. 
 
     Before School Summary:
 
-    ![before school summary](https://github.com/emariecovey/School_District_Analysis/blob/main/before_school_summary.png)
+    ![before school summary](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/before_school_summary.png)
 
     After School Summary:
 
-    ![after school summary](https://github.com/emariecovey/School_District_Analysis/blob/main/after_school_summary.png)
+    ![after school summary](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/after_school_summary.png)
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     Thomas High School's performance relative to other schools did not change by removing 9th grade scores. They remained 2nd out of the 15 schools when comparing the percent of students passing both reading and math. 
 
     Top 5 Schools:
 
-    ![top 5 schools](https://github.com/emariecovey/School_District_Analysis/blob/main/top_5_schools.png)
+    ![top 5 schools](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/top_5_schools.png)
 
 4. How does replacing the ninth-grade scores affect math and reading scores by grade
     These scores were not impacted at all. The only difference in these tables were the missing values in the Thomas High School 9th grade cells. 
     
     Math Scores:
 
-    ![after math scores](https://github.com/emariecovey/School_District_Analysis/blob/main/after_math_scores.png)
+    ![after math scores](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/after_math_scores.png)
 
 5. How does replacing the ninth-grade scores affect scores by school spending
     Scores in this table remained the same. Scores were only divided up between four spending range categories and were rounded, so there was likely not enough of a difference to change the scores. 
 
     School Spending:
 
-    ![before school spending](https://github.com/emariecovey/School_District_Analysis/blob/main/before_school_spending.png)
+    ![before school spending](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/before_school_spending.png)
 
 6. How does replacing the ninth-grade scores affect scores by school size
     Scores in this table remained the same. Scores were only divided up between three categories (small, medium, and large schools) and were rounded, so there was likely not enough of a difference to change the scores. 
 
     School Size:
 
-    ![before school size](https://github.com/emariecovey/School_District_Analysis/blob/main/before_school_size.png)
+    ![before school size](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/before_school_size.png)
 
 7. How does replacing the ninth-grade scores affect scores by school type
     Scores in this table remained the same. Scores were only divided up between two categories (charter and district schools) and were rounded, so there was likely not enough of a difference to change the scores. 
 
     School Type:
     
-    ![before school type](https://github.com/emariecovey/School_District_Analysis/blob/main/before_school_type.png)
+    ![before school type](https://github.com/emariecovey/School_District_Analysis/blob/main/Resources/Analysis%20Tables/before_school_type.png)
 
 ## Summary: 
 
